@@ -35,10 +35,13 @@ A web-based attendance monitoring system designed to identify attendance violati
 
 [View Project](https://github.com/Adityakulkarni68/AVERT)
 
-### 3. Movie Recommendation System
-A content-based movie recommendation system using text vectorization and similarity techniques.
+### ### 3. TripPilot – AI-Powered Travel Planning and Recommendation System
 
-**Technologies:** Python, Scikit-learn, TF-IDF, Cosine Similarity
+An AI-powered travel planning platform that generates personalized itineraries and dynamically optimizes daily plans using weather, traffic, and restaurant recommendations through a multi-agent architecture.
+
+**Technologies:** Python, FastAPI, React, NumPy, PostgreSQL, SQLite, REST APIs, Multi-Agent AI, Asynchronous Programming
+
+[View GitHub Repository](https://github.com/Adityakulkarni68/trippilot-smart-travel)
 
 [View GitHub Profile](https://github.com/Adityakulkarni68)
 
